@@ -41,6 +41,7 @@ Leetcode and Hacker Rank
 | ------- |
 | [0009-palindrome-number](https://github.com/abuzar87/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abuzar87/DSA/tree/master/0066-plus-one) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abuzar87/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
 | ------- |
